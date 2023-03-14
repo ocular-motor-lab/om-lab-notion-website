@@ -4,7 +4,7 @@
 
 # DO NOT CHANGE THIS VALUE. The deploy script relies on the site being deployed to the
 # "site" directory.
-name = "site"
+name = "Ocular-Motor lab @ Berkeley"
 
 # This page should be the root of your website. It's important.
-page = "<your Notion share URL here>"
+page = "https://www.notion.so/omlab/Ocular-Motor-lab-Berkeley-82aa57b465244f2eb4c79f4a59ddb7ae"
