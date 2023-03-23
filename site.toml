@@ -4,7 +4,7 @@
 
 # DO NOT CHANGE THIS VALUE. The deploy script relies on the site being deployed to the
 # "site" directory.
-name = "Ocular-Motor lab @ Berkeley"
+name = "site"
 
 # This page should be the root of your website. It's important.
 page = "https://omlab.notion.site/"
