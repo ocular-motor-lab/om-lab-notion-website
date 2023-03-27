@@ -18,8 +18,8 @@ page = "https://omlab.notion.site/"
   # each key in the table maps to an atttribute in the tag
   # the following adds the tag <meta name="title" content="Loconotion Test Site"/>
   [[site.meta]]
-  name = "Ocular-Motor lab @ Berkeley"
-  content = "Website of the Ocular-Motor lab @ Berkeley - PI: Jorge Otero-Millan"
+  name = "title"
+  content = "Ocular-Motor lab @ Berkeley"
   [[site.meta]]
   name = "description"
-  content = "We study eye movements and vision at the Herbert Wertheim School of Optometry & Vision Science University of California, Berkeley."
+  content = "Website of the Ocular-Motor lab @ Berkeley - PI: Jorge Otero-Millan"
