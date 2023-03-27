@@ -8,3 +8,18 @@ name = "site"
 
 # This page should be the root of your website. It's important.
 page = "https://omlab.notion.site/"
+
+## Global Site Settings ##
+# this [site] table defines override settings for the whole site
+# later on we will see how to define settings for a single page
+[site]
+  ## Custom Meta Tags ##
+  # defined as an array of tables (double square brackets)
+  # each key in the table maps to an atttribute in the tag
+  # the following adds the tag <meta name="title" content="Loconotion Test Site"/>
+  [[site.meta]]
+  name = "Ocular-Motor lab @ Berkeley"
+  content = "Website of the Ocular-Motor lab @ Berkeley - PI: Jorge Otero-Millan"
+  [[site.meta]]
+  name = "description"
+  content = "We study eye movements and vision at the Herbert Wertheim School of Optometry & Vision Science University of California, Berkeley."
